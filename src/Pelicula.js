@@ -17,7 +17,7 @@ function Pelicula(props) {
         </p>
         <p className="run-time">
           {" "}
-          Run Time: {props.duracion} . <span>MMPA: PG-134 </span> .{" "}
+          Run Time: {props.duracion} . <span>MMPA: PG-13 </span> .{" "}
           <span>Release: {props.fecha}</span>
         </p>
         <p>
