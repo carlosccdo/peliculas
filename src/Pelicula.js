@@ -24,7 +24,7 @@ function Pelicula(props) {
           Director: <a href="#">{props.director}</a>
         </p>
         <p>
-          Starss: {props.actores}
+          Stars: {props.actores}
         </p>
       </div>
     </div>
