@@ -25,7 +25,8 @@ function PageWrapper(props){
                     Password:
                     <input type="password" name="password" id="password" placeholder="******" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required="required" />
                 </label>
-            </div>
+            </div> 
+            
             <div className="row">
             	<div className="remember">
 					<div>
